@@ -1,9 +1,9 @@
 # Members in group:
-Javal Patel (200426060)
+Javal Patel (200426060) (Thursday section)
 
-Junliang Liu (200418758)
+Junliang Liu (200418758) (Thursday section)
 
-Vrunda Panchani (200427352)
+Vrunda Panchani (200427352) (Wednesday section)
 
 
 # project description
