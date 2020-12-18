@@ -1,76 +1,13 @@
-# Project Starter files
+# project description
 
-## Includes:
+this application shows the book library and add/delete book info also update it once user is logged in.
 
-- API
-  - User CRUD (Create, Read, Update, Delete)
-  - Session Authentication
-    - Passport Local strategy
-    - Passport JWT strategy
-  - Error handling
-  - Mongoose configuration
-  - All required node packages
-    - dotenv
-    - express
-    - express-session
-    - cors
-    - mongoose
-    - body-parser
-    - jsonwebtoken
-    - passport
-    - passport-jwt
-    - passport-local
-    - passport-local-mongoose
-- Client
-  - User CRUD components
-  - Authentication components
-  - Shared navigation component
-    - Helper for using React Router DOM Link component with React Bootstrap component
-  - Global provider for across application variable store
-  - Notification provider for across application message system
-  - User provider for across application user access
-  - All required node packages
-    - axios
-    - bootstrap
-    - react
-    - react-bootstrap
-    - react-dom
-    - react-router-dom
-    - react-scripts
-    - styled-components
+# we worked together as a team to get the project done.
 
----
-## Installation
+# but person wise work is :
+# the  logged in user can access the page, CRUD operation and Getting restricted resources after logging in is done by the collabaration of all three member, since it's the important section. 
 
-### API
-```shell
-npm install
-```
+# This is more of group work, becuase in each section their was some error which was solved with the help of all the members.
 
-> To run:
-```shell
-npm run dev
-```
 
-> Add your .env file with your Atlas Cloud MongoDB credentials
-```json
-DB_URI="mongodb+srv://comp-2068.efkcg.mongodb.net/<database name>?retryWrites=true&w=majority"
-DB_USER="<database username>"
-DB_PASS="<database password>"
-```
-> Replace **\<config option\>** with the corresponding data
 
-### Client
-```shell
-yarn
-```
-
-> To run:
-```shell
-yarn start
-```
-
-> When you are ready to deploy you will need to build it first:
-```shell
-yarn build
-```
